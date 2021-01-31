@@ -3,8 +3,8 @@
 Cryptocurreny 'Bundle' trading supporter for Android app
 
 
-#Kotlin
+# Kotlin
 
-##library
+## library
 
 - MVVM, Jetpack AAC, Databinding, Koin, coroutine, RxKotlin, RxAndroid, Retrofit, okHttp, Glide
